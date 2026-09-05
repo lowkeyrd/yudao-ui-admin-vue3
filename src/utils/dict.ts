@@ -239,6 +239,10 @@ export enum DICT_TYPE {
   PMS_KNOWLEDGE_GROUP_TYPE = 'pms_knowledge_group_type', // PMS 知识库分组类型
   PMS_KNOWLEDGE_LIBRARY_MEMBER_LEVEL = 'pms_knowledge_library_member_level', // PMS 知识库成员等级
 
+  // ========== OA - 办公自动化模块 ==========
+  OA_ATTENDANCE_TYPE = 'oa_attendance_type', // OA 考勤类型
+  OA_ATTENDANCE_STATUS = 'oa_attendance_status', // OA 考勤状态
+
   // ========== FMS - 财务管理模块 ==========
   FMS_ACCOUNT_USER_LEVEL = 'fms_account_user_level', // FMS 账套用户权限级别
   FMS_SUBJECT_CATEGORY = 'fms_subject_category', // FMS 科目类别
